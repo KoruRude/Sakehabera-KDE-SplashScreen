@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment=KoruRude-Splashscreen created with the background of (x.com/Sakehabera)'s art and a combination of other splashScreen code (bad dragon splash screen https://store.kde.org/p/2136265; and one other)
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Sakehabera
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=KoruRude
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Sakehabera
+X-KDE-PluginInfo-Version=1.0
+X-Plasma-MainScript=defaults
+
